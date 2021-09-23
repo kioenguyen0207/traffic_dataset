@@ -1,0 +1,198 @@
+{
+    "info": {
+        "year": "2021",
+        "version": "2",
+        "description": "Exported from roboflow.ai",
+        "contributor": "",
+        "url": "https://public.roboflow.ai/object-detection/undefined",
+        "date_created": "2021-09-22T07:52:12+00:00"
+    },
+    "licenses": [
+        {
+            "id": 1,
+            "url": "https://creativecommons.org/licenses/by/4.0/",
+            "name": "CC BY 4.0"
+        }
+    ],
+    "categories": [
+        {
+            "id": 0,
+            "name": "vehicles",
+            "supercategory": "none"
+        },
+        {
+            "id": 1,
+            "name": "car",
+            "supercategory": "vehicles"
+        },
+        {
+            "id": 2,
+            "name": "motorbike",
+            "supercategory": "vehicles"
+        }
+    ],
+    "images": [
+        {
+            "id": 0,
+            "license": 1,
+            "file_name": "young-women-on-a-scooter-on-trang-tien-hanoi-vietnam-B0FXAY_jpg.rf.56c097fc05424fc969b7fc574ad4f6e6.jpg",
+            "height": 956,
+            "width": 1300,
+            "date_captured": "2021-09-22T07:52:12+00:00"
+        },
+        {
+            "id": 1,
+            "license": 1,
+            "file_name": "xe-om-cong-nghe-1480591810-1511697448462_jpg.rf.d9c7e4be79103a09e533620e6a49d19a.jpg",
+            "height": 444,
+            "width": 640,
+            "date_captured": "2021-09-22T07:52:12+00:00"
+        },
+        {
+            "id": 2,
+            "license": 1,
+            "file_name": "xe-may-15249215017532135885431_png.rf.c0098fb7640b86fc71808778f096f19f.jpg",
+            "height": 730,
+            "width": 660,
+            "date_captured": "2021-09-22T07:52:12+00:00"
+        },
+        {
+            "id": 3,
+            "license": 1,
+            "file_name": "xe-honda-wave_jpg.rf.cd631b0f099c0d1d578727dd6b137200.jpg",
+            "height": 480,
+            "width": 640,
+            "date_captured": "2021-09-22T07:52:12+00:00"
+        },
+        {
+            "id": 4,
+            "license": 1,
+            "file_name": "xe_jpg.rf.cbb38bdca5325227c59df6c97340e4d1.jpg",
+            "height": 336,
+            "width": 480,
+            "date_captured": "2021-09-22T07:52:12+00:00"
+        },
+        {
+            "id": 5,
+            "license": 1,
+            "file_name": "xem-nguoi-viet-lam-xiec-voi-xe-may-tren-pho-hinh-2_jpg.rf.b12d6cf3821ed07223919084790e2b3e.jpg",
+            "height": 400,
+            "width": 600,
+            "date_captured": "2021-09-22T07:52:12+00:00"
+        }
+    ],
+    "annotations": [
+        {
+            "id": 0,
+            "image_id": 0,
+            "category_id": 2,
+            "bbox": [
+                172,
+                290,
+                861,
+                572
+            ],
+            "area": 492492,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 1,
+            "image_id": 0,
+            "category_id": 2,
+            "bbox": [
+                831,
+                213,
+                468,
+                441
+            ],
+            "area": 206388,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 2,
+            "image_id": 1,
+            "category_id": 2,
+            "bbox": [
+                203,
+                147,
+                325,
+                284
+            ],
+            "area": 92300,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 3,
+            "image_id": 1,
+            "category_id": 2,
+            "bbox": [
+                0,
+                117,
+                198,
+                243
+            ],
+            "area": 48114,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 4,
+            "image_id": 2,
+            "category_id": 2,
+            "bbox": [
+                87,
+                230,
+                345,
+                429
+            ],
+            "area": 148005,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 5,
+            "image_id": 3,
+            "category_id": 2,
+            "bbox": [
+                200,
+                165,
+                439,
+                314
+            ],
+            "area": 137846,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 6,
+            "image_id": 4,
+            "category_id": 2,
+            "bbox": [
+                84,
+                99,
+                363,
+                226
+            ],
+            "area": 82038,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 7,
+            "image_id": 5,
+            "category_id": 2,
+            "bbox": [
+                40,
+                142,
+                426,
+                257
+            ],
+            "area": 109482,
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    ]
+}
